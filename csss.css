@@ -1,0 +1,41 @@
+header{
+    /* color: aqua; */
+    color: blue;
+      justify-content: center;
+      display: flex;  
+      align-items: center;
+      padding: 10px 20px;
+ }
+ h1{
+    
+    margin-right: 660px;
+ }
+.one{
+    /* padding: 2px; */
+    /* border-bottom: 3px solid yellow;  */
+    margin: 30px;
+    /* background: yellow; */
+}
+a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    margin-top: 6px;
+    
+}
+ul li{
+    text-shadow: 2px 4px yellow;
+}
+footer{
+    text-align: center;
+    padding: 5px;
+    /* background-color: yellow; */
+}
+header a{
+    margin: 20px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a:hover{
+    color: palevioletred;
+}
